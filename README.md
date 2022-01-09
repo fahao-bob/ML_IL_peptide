@@ -1,2 +1,2 @@
 # ML_IL_peptide
-This repository is used to save the scripts in the second project. 
+This is a collection of the scripts used in the second project.  
