@@ -1,7 +1,7 @@
 #!/bin/tcl!
 # This script is used to generate the pdb of each mol in every snapshot
 #                                     author: gy  
-#                                     date:   220108  
+#                                     date:   220109  
 
 ### import structure and taj ###
 mol new prod.gro
